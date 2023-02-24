@@ -3,7 +3,7 @@
         {
             "source": "/(.*)",
             "destination": "https://animalslover.xyz/$1",
-            "statusCode": 301
+            "statusCode": 307
         }
     ]
 }
